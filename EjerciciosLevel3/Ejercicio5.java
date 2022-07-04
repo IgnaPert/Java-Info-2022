@@ -4,7 +4,6 @@ import java.time.LocalDate;
 import java.time.Period;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /*Se posee una Lista con objetos de clase Alumno con los atributos: apellido,
